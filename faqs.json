@@ -1,0 +1,65 @@
+[
+  {
+    "id": "main-entrance-door-direction",
+    "q": "Which direction should the main entrance door of a house face?",
+    "a": "<p>North, East, and North-East are considered the most auspicious directions for a main entrance, as they allow morning sunlight and positive energy to enter the home. North-East (Ishaan) is especially favoured. A South-facing door is not inherently bad Vastu — it can work well with the right door design, threshold, and lighting, so do not reject a home on this basis alone.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "kitchen-location-vastu",
+    "q": "Where should the kitchen be located according to Vastu?",
+    "a": "<p>The South-East corner of the home is the ideal location for a kitchen, as this direction is governed by Agni, the fire element. The cook should ideally face East while cooking. If South-East is not available, the North-West corner is considered an acceptable alternative.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "bedroom-direction-master-bedroom",
+    "q": "Which direction is best for the bedroom, and does it change for the master bedroom?",
+    "a": "<p>The South-West is considered the best direction for the master or main bedroom, as it brings stability and grounding energy to the head of the household. Children's bedrooms work well in the West or North-West, while a South-East bedroom is best avoided for sleeping as it can bring restlessness — that zone is better suited to the kitchen.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "mirror-facing-bed",
+    "q": "Is it bad Vastu to have a mirror facing the bed?",
+    "a": "<p>Yes, a mirror directly facing the bed is generally advised against in Vastu, as it is believed to create disturbed sleep and amplify stress in relationships. If a mirror must be in the bedroom, place it on a wall perpendicular to the bed, or use a cabinet with doors that close over it.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "pooja-room-placement",
+    "q": "Where should the pooja (prayer) room be placed in the house?",
+    "a": "<p>The North-East corner (Ishaan) is the most sacred and correct direction for a pooja room, as it is associated with spiritual energy and clarity. The idols or images should face West or East while the person praying faces East or North. Avoid placing the pooja room under a staircase, next to a bathroom, or in the bedroom directly against the same wall as a bed's headboard.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "study-table-work-desk-direction",
+    "q": "What is the ideal direction for a study table or work desk?",
+    "a": "<p>For a study or work desk, East and North are the best facing directions, as they are believed to improve focus and support the flow of ideas. Sitting with your back to the door, or directly facing a wall with no space in front of you, is best avoided.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "money-locker-safe-placement",
+    "q": "Does Vastu recommend where to keep money, lockers, or safes at home?",
+    "a": "<p>Yes — a safe, locker, or cash box should ideally be placed in the South-West part of the room it is in, and should open towards the North, which is the direction of Kubera, the deity of wealth. It should never be placed directly facing the main entrance door.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "indoor-plants-vastu",
+    "q": "Are indoor plants good or bad for Vastu, and where should they be placed?",
+    "a": "<p>Most indoor plants are considered auspicious and are best placed in the East or North of the home, which supports growth and fresh energy. Money plants do particularly well in the South-East. Avoid keeping thorny plants like cactus indoors, and avoid dried or artificial flowers, which are considered to stagnate energy.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "modern-apartment-vastu-fixes",
+    "q": "What should be avoided in Vastu for a modern apartment where you cannot change the layout?",
+    "a": "<p>When the structure cannot be changed, Vastu recommends corrective measures rather than construction: use colour, mirrors, lighting, and placement of furniture to balance the energy of a room. For example, a South-East facing bedroom can be softened with cooler colours and by placing the bed away from that wall, rather than assuming the home is unusable.</p>",
+    "image": "",
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  }
+]
